@@ -5,7 +5,7 @@ while (again == "a")
     Console.WriteLine("****************************");
     Console.WriteLine("***** Výpis řady čísel *****");
     Console.WriteLine("****************************");
-    Console.WriteLine("***** Leona KRajzingerová *****");
+    Console.WriteLine("***** Leona Krajzingerova *****");
     Console.WriteLine("****************************");
     Console.WriteLine();
 
