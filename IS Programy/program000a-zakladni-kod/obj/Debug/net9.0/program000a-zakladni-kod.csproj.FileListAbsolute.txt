@@ -1,0 +1,15 @@
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\bin\Debug\net9.0\program000a-zakladni-kod.exe
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\bin\Debug\net9.0\program000a-zakladni-kod.deps.json
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\bin\Debug\net9.0\program000a-zakladni-kod.runtimeconfig.json
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\bin\Debug\net9.0\program000a-zakladni-kod.dll
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\bin\Debug\net9.0\program000a-zakladni-kod.pdb
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.AssemblyInfoInputs.cache
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.AssemblyInfo.cs
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.csproj.CoreCompileInputs.cache
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.sourcelink.json
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.dll
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\obj\Debug\net9.0\refint\program000a-zakladni-kod.dll
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.pdb
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\obj\Debug\net9.0\program000a-zakladni-kod.genruntimeconfig.cache
+C:\Users\leoni\IS_2025-Sk2\github-lk-is-2025-sk2\IS Programy\program000a-zakladni-kod\obj\Debug\net9.0\ref\program000a-zakladni-kod.dll

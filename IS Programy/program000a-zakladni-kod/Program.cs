@@ -1,11 +1,11 @@
-﻿string again = "a";
+﻿﻿string again = "a";
 while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("****************************");
     Console.WriteLine("***** Výpis řady čísel *****");
     Console.WriteLine("****************************");
-    Console.WriteLine("*** Leona Krajzingerova ****");
+    Console.WriteLine("***** Leona KRajzingerová *****");
     Console.WriteLine("****************************");
     Console.WriteLine();
 

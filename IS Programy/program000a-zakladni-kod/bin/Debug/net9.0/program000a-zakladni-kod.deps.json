@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "IS Programy/1.0.0": {
+      "program000a-zakladni-kod/1.0.0": {
         "runtime": {
-          "IS Programy.dll": {}
+          "program000a-zakladni-kod.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "IS Programy/1.0.0": {
+    "program000a-zakladni-kod/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
