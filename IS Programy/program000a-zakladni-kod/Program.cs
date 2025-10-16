@@ -27,5 +27,18 @@ while (again == "a")
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
 
+    Console.Write("Zadejte poslední číslo řady (celé číslo): ");
+    int last;
 
-}
+    while (!int.TryParse(Console.ReadLine(), out last))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
+
+    }
+}    Console.Write("Zadejte diferenci (celé číslo): ");
+    int step;
+
+    while (!int.TryParse(Console.ReadLine(), out step))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
+    }
