@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leoni\\IS_2025-Sk2\\github-lk-is-2025-sk2\\IS Programy\\program000a-zakladni-kod\\program000a-zakladni-kod.csproj",
+      "projectUniqueName": "C:\\Users\\leoni\\Documents\\GitHub\\github-lk-is-2025-sk2\\IS Programy\\program000a-zakladni-kod\\program000a-zakladni-kod.csproj",
       "projectName": "program000a-zakladni-kod",
-      "projectPath": "C:\\Users\\leoni\\IS_2025-Sk2\\github-lk-is-2025-sk2\\IS Programy\\program000a-zakladni-kod\\program000a-zakladni-kod.csproj",
+      "projectPath": "C:\\Users\\leoni\\Documents\\GitHub\\github-lk-is-2025-sk2\\IS Programy\\program000a-zakladni-kod\\program000a-zakladni-kod.csproj",
       "packagesPath": "C:\\Users\\leoni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leoni\\IS_2025-Sk2\\github-lk-is-2025-sk2\\IS Programy\\program000a-zakladni-kod\\obj\\",
+      "outputPath": "C:\\Users\\leoni\\Documents\\GitHub\\github-lk-is-2025-sk2\\IS Programy\\program000a-zakladni-kod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leoni\\AppData\\Roaming\\NuGet\\NuGet.Config"
