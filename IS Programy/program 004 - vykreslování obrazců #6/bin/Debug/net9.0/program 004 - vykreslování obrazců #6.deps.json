@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program 004 - vykreslování obrazců #6/1.0.0": {
+        "runtime": {
+          "program 004 - vykreslování obrazců #6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program 004 - vykreslování obrazců #6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

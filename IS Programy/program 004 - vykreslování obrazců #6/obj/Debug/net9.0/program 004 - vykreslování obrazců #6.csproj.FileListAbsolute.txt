@@ -1,0 +1,15 @@
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\bin\Debug\net9.0\program 004 - vykreslování obrazců #6.exe
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\bin\Debug\net9.0\program 004 - vykreslování obrazců #6.deps.json
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\bin\Debug\net9.0\program 004 - vykreslování obrazců #6.runtimeconfig.json
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\bin\Debug\net9.0\program 004 - vykreslování obrazců #6.dll
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\bin\Debug\net9.0\program 004 - vykreslování obrazců #6.pdb
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\obj\Debug\net9.0\program 004 - vykreslování obrazců #6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\obj\Debug\net9.0\program 004 - vykreslování obrazců #6.AssemblyInfoInputs.cache
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\obj\Debug\net9.0\program 004 - vykreslování obrazců #6.AssemblyInfo.cs
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\obj\Debug\net9.0\program 004 - vykreslování obrazců #6.csproj.CoreCompileInputs.cache
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\obj\Debug\net9.0\program 004 - vykreslování obrazců #6.sourcelink.json
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\obj\Debug\net9.0\program 004 - vykreslování obrazců #6.dll
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\obj\Debug\net9.0\refint\program 004 - vykreslování obrazců #6.dll
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\obj\Debug\net9.0\program 004 - vykreslování obrazců #6.pdb
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\obj\Debug\net9.0\program 004 - vykreslování obrazců #6.genruntimeconfig.cache
+C:\Users\leoni\Documents\GitHub\github-lk-is-2025-sk2\IS Programy\program 004 - vykreslování obrazců #6\obj\Debug\net9.0\ref\program 004 - vykreslování obrazců #6.dll
